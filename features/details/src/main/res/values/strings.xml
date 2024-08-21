@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error">Ошибка при загрузке</string>
+    <string name="add">Добавить в планнер</string>
+    <string name="address">Адрес:</string>
+    <string name="cancel">Отмена</string>
+    <string name="add_dialog">Добавить</string>
+    <string name="date">Дата</string>
+    <string name="title">Название</string>
+    <string name="new_dialog">Новый досуг</string>
+</resources>
